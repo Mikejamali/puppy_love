@@ -12,3 +12,74 @@ colors:
     blue - #1fabe5
     dark blue - #046c97
 */
+header {
+  background-color: #ff8523;
+  margin: 1px;
+  height: 230px;
+
+  }
+  body {
+  background-color: white;
+  font-family: Helvetica, Arial, sans-serif;
+}
+nav {
+  margin-top: 100px;
+margin
+
+
+}
+/*orange rectangle, boxes and lines here*/
+h2{
+  color: #1fabe5;
+  font-size: 30px
+}
+p{
+  font-size: 20px;
+}
+ul{
+  font-size: 20px;
+}
+
+
+h3{
+  color: #1fabe5;
+  font-size: 30px
+
+}
+h2{
+  color: #1fabe5;
+  font-size: 30px
+}
+li{
+  font-weight: bold;
+}
+line-height - 1.6;
+p{
+  font-size: 20px;
+}
+nav a{
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  border: thin white solid;
+  margin: 1px;
+  color: white;
+  border-radius: 10px;
+}
+table {
+  border-collapse: collapse;
+
+}
+td {
+  border: thin #1fabe5 solid;
+}
+thead{
+  margin-top: 100px;
+  background-color: #1fabe5;
+  font-size: 20px;
+}
+.name {
+background-color: orange;
+
+}
